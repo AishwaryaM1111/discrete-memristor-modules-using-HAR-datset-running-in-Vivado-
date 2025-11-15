@@ -31,5 +31,5 @@ Memristor model: as mentioned in the paper if consider MNIST dataset there are 7
 
 
 
-for important feature extraction use: 
+for important feature extraction use: https://github.com/AishwaryaM1111/UCI-HAR-Feature_selection#  
 Download Data-set from here : Reyes-Ortiz, J., Anguita, D., Ghio, A., Oneto, L., & Parra, X. (2013). Human Activity Recognition Using Smartphones [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C54S4K. 
