@@ -1,1 +1,1 @@
-# discrete-memristor-modules-using-HAR-datset-running-in-Vivado-
+# UCI-HAR SLP Quantization and Memristor Verilog Framework
