@@ -12,7 +12,9 @@ In this program i have used human activity recognition(HAR) dataset, in previous
 
 
 step 1: used MNIST dataset trained and tested using single layer perceptron(SLP). 
+
 step 2: used the weights of SLP and quantized between (0-2) with step size = 0.25 with 8-valued memristor. then converted to fixed point number which can be used in verilog when running descrete memristor model. 
+
 step 3: the features are scaled between (-4, 4) then converted to fixed point number where input and weights can be expressed in 4 digits for integer, 2 digits for decimal and 1 digit for sign.
 
 
