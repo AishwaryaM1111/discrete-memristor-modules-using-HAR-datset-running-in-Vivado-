@@ -26,7 +26,7 @@ In this program i have used human activity recognition(HAR) dataset, in previous
 I have replicated the same paper i have 1st used the same dataset and same procedure later chnaged the dataset to HAR used 95 feature instead 561 feature. then trained and tested using single layer perceptron (SLP) saved the best model and their weights later followed above step 1, 2 and 3. converted to .txt file so that can be uploaded while writing a program for memrristor model.
 
 
-memristor model: as mentioned in the paper if consider MNIST dataset there are 784 inputs (28x28 image pixel) and there are 10 handwritten digit so 784*10=7840 weights and each pixel has one memristor so there are 7840 memristor module. Now in this i have used HAR dataset in that 95 feature so there are 95 inputs and there are 6 class (0-5) so 95*6=570 memristor module.
+Memristor model: as mentioned in the paper if consider MNIST dataset there are 784 inputs (28x28 image pixel) and there are 10 handwritten digit so 784*10=7840 weights and each pixel has one memristor so there are 7840 memristor module. Now in this i have used HAR dataset in that 95 feature so there are 95 inputs and there are 6 class (0-5) so 95*6=570 memristor module.
 
 
 
